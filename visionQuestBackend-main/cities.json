@@ -1,0 +1,62 @@
+{
+    "IT": [
+        "Bangalore",
+        "Hyderabad",
+        "Pune",
+        "Chennai",
+        "Mumbai",
+        "Delhi",
+        "Kolkata",
+        "Ahmedabad",
+        "Indore",
+        "Jaipur"
+    ],
+    "Healthcare": [
+        "Pune",
+        "Ahmedabad",
+        "Bangalore",
+        "Mumbai",
+        "Chennai",
+        "Hyderabad",
+        "Kolkata",
+        "Delhi-NCR",
+        "Lucknow",
+        "Patna"
+    ],
+    "Fashion": [
+        "Mumbai",
+        "Delhi",
+        "Bangalore",
+        "Chennai",
+        "Hyderabad",
+        "Kolkata",
+        "Ahmedabad",
+        "Jaipur",
+        "Surat",
+        "Kochi"
+    ],
+    "Petrochemical": [
+        "Mumbai",
+        "Jamnagar",
+        "Gandhinagar",
+        "Haldia",
+        "Visakhapatnam",
+        "Nagothane",
+        "Kochi",
+        "Panipat",
+        "Dahej",
+        "Barauni"
+    ],
+    "Finance": [
+        "Mumbai",
+        "Delhi",
+        "Bangalore",
+        "Chennai",
+        "Hyderabad",
+        "Kolkata",
+        "Ahmedabad",
+        "Pune",
+        "Surat",
+        "Indore"
+    ]
+}

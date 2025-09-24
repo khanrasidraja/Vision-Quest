@@ -1,0 +1,37 @@
+{
+    "IT": [
+        "Research and development",
+        "Connectivity",
+        "Marketing",
+        "Logistics",
+        "Inventory Management"
+    ],
+    "Fashion": [
+        "Research and development",
+        "Inventory Management",
+        "Logistics",
+        "Marketing",
+        "Connectivity"
+    ],
+    "Healthcare": [
+        "Research and development",
+        "Connectivity",
+        "Inventory Management",
+        "Logistics",
+        "Marketing"
+    ],
+    "Petrochemical": [
+        "Research and development",
+        "Inventory Management",
+        "Logistics",
+        "Marketing",
+        "Connectivity"
+    ],
+    "Finance": [
+        "Research and development",
+        "Connectivity",
+        "Inventory Management",
+        "Logistics",
+        "Marketing"
+    ]
+}
